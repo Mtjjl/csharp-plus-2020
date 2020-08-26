@@ -11,6 +11,9 @@ namespace session02exersise01
             string value = "jag har en dröm";
 
             Console.WriteLine("the value of my string is" + value);
+            int gul = 3;
+
+            Console.WriteLine("jag har " + gul + "kater");
         }
     }
 }
