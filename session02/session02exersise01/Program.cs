@@ -8,9 +8,6 @@ namespace session02exersise01
         {
             Console.WriteLine("Hello World!");
 
-            int gul = 3;
-
-            Console.WriteLine("jag har " + gul + "kater");
         }
     }
 }
