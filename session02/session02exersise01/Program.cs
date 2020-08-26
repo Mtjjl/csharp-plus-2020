@@ -8,6 +8,9 @@ namespace session02exersise01
         {
             Console.WriteLine("Hello World!");
 
+            string value = "jag har en dröm";
+
+            Console.WriteLine("the value of my string is" + value);
         }
     }
 }
